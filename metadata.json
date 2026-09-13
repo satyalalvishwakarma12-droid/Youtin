@@ -1,0 +1,6 @@
+{
+  "name": "youtin",
+  "description": "A refined privacy-first social app featuring liquid-glass aesthetics, custom themes, Instagram-proportional feeds, Mini vertical videos, and encrypted messaging.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
